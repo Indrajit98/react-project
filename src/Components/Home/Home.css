@@ -1,0 +1,10 @@
+.container{
+    width:1140px;
+    margin: 0 auto;
+    padding:0;
+    box-sizing: border-box;
+}
+.box{
+    display:flex;
+    flex-wrap: wrap;
+}
